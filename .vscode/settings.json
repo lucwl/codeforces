@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.dbclient-js": "javascript",
+    "iostream": "cpp",
+    "__tree": "cpp",
+    "map": "cpp",
+    "format": "cpp",
+    "array": "cpp"
+  }
+}
